@@ -1,0 +1,33 @@
+.logo img{
+    width: 70px;
+}
+
+.border{
+    border-radius: 5px;
+    background-color:#e9ecef;
+    width: 146%;
+}
+
+.scrollspy-example{
+    position: relative;
+    height: 160px;
+    overflow: auto;
+}
+
+.boot {
+    padding-left: 58%;
+    margin-top: -11%;
+}
+
+.container{
+    width: 1000px;
+}
+
+
+.accordion-button{
+    background-color: #f7f7f7;
+    color: #0f82ff;
+  
+}
+
+
